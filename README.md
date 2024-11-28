@@ -7,8 +7,14 @@ This project minimizes perplexity for reordered text in the Santa 2024 competiti
    ```bash
    pip install -r requirements.txt
 
-2. Fine-tune the model: python src/fine_tune.py
+2. Fine-tune the model:
+   ```bash
+   python src/fine_tune.py
 
-3. Generate submission: python src/reorder_text.py
+4. Generate submission
+   ```bash
+   python src/reorder_text.py
 
-4. Test evaluation: python src/test_evaluation.py
+6. Test evaluation
+   ```bash
+   python src/test_evaluation.py
