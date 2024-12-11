@@ -15,6 +15,6 @@ This project minimizes perplexity for reordered text in the Santa 2024 competiti
    ```bash
    python src/reorder_text.py
 
-6. Test evaluation
+6. Validate evaluation locally
    ```bash
    python src/evaluation.py --solution data/sample_submission.csv --submission results/submission.csv
